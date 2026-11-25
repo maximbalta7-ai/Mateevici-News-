@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ro"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>Mateevici News</title>
+
 <style>
 :root{--ink:#1b1630;--paper:#f6f4fb;--card:#fff;--violet:#3a2a6b;--rose:#e0457b;--gold:#ffe600;--blue:#1c3fbf;--red:#d3112a;--mut:#5d5778;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]){--ink:#efeaff;--paper:#14102a;--card:#1d1840;--mut:#b4acd4}}
